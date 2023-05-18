@@ -1,12 +1,12 @@
 
 # 土豆兄弟 Mod
 
-## chrisyy2003-MinusTwenty
+## 难度 - 减20 | chrisyy2003-MinusTwenty
 
 描述：难度减20, 武器栏增加，敌人数量翻倍，享受纯粹的杀戮！
 
 
-在 [MinusTwenty](https://steamcommunity.com/sharedfiles/filedetails/?id=2935571472) 的基础上进行了一些初始数值修改：
+在 MinusTwenty：https://steamcommunity.com/sharedfiles/filedetails/?id=2935571472 的基础上进行了一些初始数值修改：
 
 最大生命值 +100
 
